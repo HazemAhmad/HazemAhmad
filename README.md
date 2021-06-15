@@ -9,3 +9,8 @@ with:
 ## Learnings:
 * Smiplicity and clarity are the best qualities.
 * Enjoy and appreciate simple moments.
+
+## Interests:
+* Machine learning.
+* Data science.
+* Image analysis.
