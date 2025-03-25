@@ -21,7 +21,7 @@ I am a Data Scientist with a strong background in software engineering and a pas
 ---
 
 ### 2. Supply Chain Optimization Projects
-**Role:** Consultant  
+**Role:** Data Scientist / Software Engineer  
 **Company:** M2HYCON  
 **Technologies:** Python, Spacetime Formers, Mixed-Integer Linear Optimization, CI/CD Pipelines
 
